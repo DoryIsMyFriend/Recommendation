@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Recommendations</string>
+    <string name="sugestio_service_started">Sugestio  Service started</string>
+	<string name="sugestio_service_stopped">Sugestio  Service stopped</string>
+	<string name="sugestio_service_label">Sugestio  Service </string>
+	<string name="sugestio_service_connected">Connected to Sugestio  Service</string>
+	<string name="sugestio_service_disconnected">No Longer Connected to Sugestio Service</string>
+    <string name="template_user_agent">Android</string>
+	
+</resources>
